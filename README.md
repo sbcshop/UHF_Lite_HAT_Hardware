@@ -1,1 +1,2 @@
-# UHF_Lite_HAT_Hardware
+# UHF Lite HAT
+
