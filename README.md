@@ -31,6 +31,10 @@ Images1
 
  ![RaspberryPi Pico RFID Expansion](https://cdn.shopify.com/s/files/1/1217/2104/products/2_85a5dfb2-96cb-4e0b-ba28-a70af127a4f1.png?v=1613732653&width=400)
  
+* [UHF HAT For Raspberry-Pi](https://shop.sb-components.co.uk/products/uhf-hat-for-raspberry-pi?_pos=1&_sid=4a8407538&_ss=r)
+
+ ![UHF HAT For Rpi](https://cdn.shopify.com/s/files/1/1217/2104/products/UHFHATForRaspberryPi.png?v=1648192425&width=400)
+  
 ## Product License
 
 This is ***open source*** product. Kindly check LICENSE.md file for more information.
